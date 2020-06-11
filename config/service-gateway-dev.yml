@@ -28,7 +28,7 @@ ribbon:
 
 custom:
   pic:
-    path: D:/upload
+    path: E:/files/upload
 
 #feign:
 #  sen
